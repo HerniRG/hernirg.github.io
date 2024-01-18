@@ -15,7 +15,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Proyectos%20Destacados-%F0%9F%9A%80-blue" alt="Proyectos Destacados">
   <img src="https://img.shields.io/badge/Lenguajes%20y%20Tecnologías-%F0%9F%9B%A0%EF%B8%8F-blue" alt="Lenguajes y Tecnologías">
-  <img src="https://img.shields.io/badge/Contacto-%F0%9F%93%AC-blue" alt="Contacto">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
 </p>
 
 <!-- Enlaces a Repositorios -->
@@ -47,10 +47,12 @@ Ejemplo básico de inicio de sesión con Flutter.
 
 ## Lenguajes y Tecnologías 🛠️
 
-- Flutter
-- Dart
-- Kotlin
-- Swift
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=flat&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-%230175C2?style=flat&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=flat&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Swift-%23FA7343?style=flat&logo=swift&logoColor=white" alt="Swift">
+</p>
 
 ## Contacto 📬
 
