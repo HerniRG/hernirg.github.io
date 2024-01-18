@@ -21,7 +21,7 @@
 
 <div align="center" style="display: flex; justify-content: space-around; background-color: #F5F5F5; padding: 20px; border-radius: 10px;">
   <div style="text-align: center; background-color: #5cb85c; padding: 10px; border-radius: 5px;">
-    <img src="https://w7.pngwing.com/pngs/333/868/png-transparent-mail-computer-icons-email-graphy-e-mail-miscellaneous-angle-rectangle.png" alt="Correo Electrónico" width="25" height="25">/><br>
+    <img src="https://w7.pngwing.com/pngs/333/868/png-transparent-mail-computer-icons-email-graphy-e-mail-miscellaneous-angle-rectangle.png" alt="Correo Electrónico" width="25" height="25"/><br>
     <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; color: white;">Correo Electrónico</a>
   </div>
   <div style="text-align: center; background-color: #5bc0de; padding: 10px; border-radius: 5px; margin: 0 20px;">
