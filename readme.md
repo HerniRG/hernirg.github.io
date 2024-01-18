@@ -11,6 +11,11 @@
   </p>
 </div>
 
+<!-- Header -->
+<div align="center">
+  <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Header" width="100%" height="auto">
+</div>
+
 <!-- Escudo del Proyecto -->
 <p align="left">
   <img src="https://img.shields.io/badge/Proyectos%20Destacados-%F0%9F%9A%80-blue" alt="Proyectos Destacados">
@@ -22,6 +27,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 
 <!-- Enlaces a Repositorios -->
 ## Proyectos Destacados 🚀
