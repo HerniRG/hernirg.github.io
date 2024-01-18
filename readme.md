@@ -21,18 +21,19 @@
 
 <div align="center" style="display: flex; justify-content: space-around; background-color: #F5F5F5; padding: 20px; border-radius: 10px;">
   <div style="text-align: center; background-color: #5cb85c; padding: 10px; border-radius: 5px;">
-    <img src="https://img.icons8.com/material-rounded/48/ffffff/email.png" alt="Correo Electrónico"/><br>
+    <img src="https://img.icons8.com/ios-filled/50/000000/secured-letter.png" alt="Correo Electrónico"/><br>
     <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; color: white;">Correo Electrónico</a>
   </div>
   <div style="text-align: center; background-color: #5bc0de; padding: 10px; border-radius: 5px; margin: 0 20px;">
-    <img src="https://img.icons8.com/material-rounded/48/ffffff/linkedin--v2.png" alt="LinkedIn"/><br>
+    <img src="https://img.icons8.com/ios-filled/50/000000/linkedin-circled.png" alt="LinkedIn"/><br>
     <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none; color: white;">LinkedIn</a>
   </div>
   <div style="text-align: center; background-color: #d9534f; padding: 10px; border-radius: 5px;">
-    <img src="https://img.icons8.com/material-outlined/48/ffffff/link--v1.png" alt="Mis Aplicaciones"/><br>
+    <img src="https://img.icons8.com/ios-filled/50/000000/link.png" alt="Mis Aplicaciones"/><br>
     <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none; color: white;">Mis Aplicaciones (iOS y Android)</a>
   </div>
 </div>
+
 
 <!-- Lenguajes y Tecnologías -->
 <h2 align="center">Lenguajes y Tecnologías 🛠️</h2>
