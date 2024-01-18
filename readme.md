@@ -1,12 +1,12 @@
 <!-- Logo y Título del Proyecto -->
-<div align="center">
+<div align="left">
   <a href="https://github.com/HerniRG/portafolio-personal">
     <img src="https://live.staticflickr.com/65535/53471788406_e8a54ccd4f_o.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Portafolio Personal Hernán Rodríguez</h3>
+  <h3 align="left">Portafolio Personal Hernán Rodríguez</h3>
 
-  <p align="center">
+  <p align="left">
     Saludos,
     <br />
     Soy Hernán Rodríguez, un desarrollador de aplicaciones móviles apasionado, formándome en lenguajes nativos con Kotlin (Android) y Swift (iOS).
@@ -61,3 +61,5 @@ Ejemplo básico de inicio de sesión con Flutter.
 Hernán Rodríguez - [Correo Electrónico](mailto:hernanrg85@gmail.com) - [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/)
 
 ---
+
+**Nota:** Este README se puede mejorar y personalizar aún más. ¡Siéntete libre de ajustarlo según tus necesidades!
