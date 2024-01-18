@@ -15,7 +15,12 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Proyectos%20Destacados-%F0%9F%9A%80-blue" alt="Proyectos Destacados">
   <img src="https://img.shields.io/badge/Lenguajes%20y%20Tecnologías-%F0%9F%9B%A0%EF%B8%8F-blue" alt="Lenguajes y Tecnologías">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="mailto:hernanrg85@gmail.com">
+    <img src="https://img.shields.io/badge/Correo%20Electrónico-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Correo Electrónico">
+  </a>
+  <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 <!-- Enlaces a Repositorios -->
