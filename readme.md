@@ -16,6 +16,7 @@
   <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Header" width="70%" height="auto">
 </div>
 
+<!-- Contacto -->
 <h2 align="center">Contacto 📬</h2>
 
 <div align="center">
