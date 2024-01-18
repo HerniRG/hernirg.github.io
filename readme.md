@@ -59,5 +59,3 @@ Hernán Rodríguez
 - [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/)
 
 ---
-
-**Nota:** Este README se puede mejorar y personalizar aún más. ¡Sientete libre de ajustarlo según tus necesidades!
