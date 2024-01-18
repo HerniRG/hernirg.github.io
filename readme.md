@@ -72,3 +72,7 @@ Hernán Rodríguez
 - <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank">LinkedIn</a>
 
 ---
+
+<div align="center">
+  <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Footer" width="100%" height="auto">
+</div>
