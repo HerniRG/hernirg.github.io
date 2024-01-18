@@ -35,19 +35,6 @@
   </a>
 </div>
 
-
-<!-- Escudo del Proyecto -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Proyectos%20Destacados-%F0%9F%9A%80-blue" alt="Proyectos Destacados">
-  <img src="https://img.shields.io/badge/Lenguajes%20y%20Tecnologías-%F0%9F%9B%A0%EF%B8%8F-blue" alt="Lenguajes y Tecnologías">
-  <a href="mailto:hernanrg85@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Correo%20Electrónico-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico">
-  </a>
-  <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
 <!-- Lenguajes y Tecnologías -->
 <h2 align="center">Lenguajes y Tecnologías 🛠️</h2>
 
