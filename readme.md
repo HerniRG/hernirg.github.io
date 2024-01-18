@@ -1,21 +1,22 @@
 <!-- Logo y Título del Proyecto -->
 <div align="left">
   <a href="https://github.com/HerniRG/portafolio-personal">
-    <img src="https://live.staticflickr.com/65535/53471788406_e8a54ccd4f_o.png" alt="Logo" width="80" height="80">
+    <img src="https://live.staticflickr.com/65535/53471788406_e8a54ccd4f_o.png" alt="Logo" width="120" height="120">
   </a>
 
-  <h3 align="left">Portafolio Personal Hernán Rodríguez</h3>
+  <h1 align="left">Portafolio Personal Hernán Rodríguez</h1>
 
   <p align="left">
-    Saludos,
-    <br />
-    Soy Hernán Rodríguez, un desarrollador de aplicaciones móviles apasionado, formándome en lenguajes nativos con Kotlin (Android) y Swift (iOS).
-    <br />
-    Actualmente, destaco mi experiencia en el desarrollo de aplicaciones móviles con Flutter y Dart para iOS y Android.
-    <br />
-    Estoy interesado en oportunidades para contribuir y aprender en el desarrollo de aplicaciones móviles.
+    ¡Hola! Soy Hernán Rodríguez, un apasionado desarrollador de aplicaciones móviles en constante aprendizaje. Me especializo en el desarrollo con Flutter y Dart para iOS y Android, y estoy ampliando mis habilidades con Kotlin (Android) y Swift (iOS).
   </p>
 </div>
+
+<!-- Escudo del Proyecto -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Proyectos%20Destacados-%F0%9F%9A%80-blue" alt="Proyectos Destacados">
+  <img src="https://img.shields.io/badge/Lenguajes%20y%20Tecnologías-%F0%9F%9B%A0%EF%B8%8F-blue" alt="Lenguajes y Tecnologías">
+  <img src="https://img.shields.io/badge/Contacto-%F0%9F%93%AC-blue" alt="Contacto">
+</p>
 
 <!-- Enlaces a Repositorios -->
 ## Proyectos Destacados 🚀
@@ -53,8 +54,10 @@ Ejemplo básico de inicio de sesión con Flutter.
 
 ## Contacto 📬
 
-Hernán Rodríguez - [Correo Electrónico](mailto:hernanrg85@gmail.com) - [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/)
+Hernán Rodríguez
+- [Correo Electrónico](mailto:hernanrg85@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/)
 
 ---
 
-**Nota:** Este README se puede mejorar y personalizar aún más. ¡Siéntete libre de ajustarlo según tus necesidades!
+**Nota:** Este README se puede mejorar y personalizar aún más. ¡Sientete libre de ajustarlo según tus necesidades!
