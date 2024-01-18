@@ -21,19 +21,26 @@
 
 <div align="center">
   <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none">
-    <button style="background-color: #EA4335; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Correo Electrónico</button>
+    <button style="background-color: #EA4335; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+      <img src="https://img.icons8.com/material-rounded/24/ffffff/email.png"/> Correo Electrónico
+    </button>
   </a>
   <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none">
-    <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">LinkedIn</button>
+    <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+      <img src="https://img.icons8.com/material-rounded/24/ffffff/linkedin--v2.png"/> LinkedIn
+    </button>
   </a>
 </div>
 
 <!-- Enlace a las Aplicaciones -->
 <div align="center" style="margin-top: 20px;">
   <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none">
-    <button style="background-color: #000; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Mis Aplicaciones</button>
+    <button style="background-color: #000; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+      <img src="https://img.icons8.com/material-rounded/24/ffffff/link--v1.png"/> Mis Aplicaciones
+    </button>
   </a>
 </div>
+
 
 <!-- Lenguajes y Tecnologías -->
 <h2 align="center">Lenguajes y Tecnologías 🛠️</h2>
