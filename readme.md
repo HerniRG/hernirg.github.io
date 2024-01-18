@@ -1,6 +1,6 @@
 <!-- Logo y Título del Proyecto -->
 <div align="left">
-  <a href="https://github.com/HerniRG/portafolio-personal">
+  <a href="https://github.com/HerniRG/portafolio-personal" target="_blank">
     <img src="https://live.staticflickr.com/65535/53471788406_e8a54ccd4f_o.png" alt="Logo" width="120" height="120">
   </a>
 
@@ -15,10 +15,10 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Proyectos%20Destacados-%F0%9F%9A%80-blue" alt="Proyectos Destacados">
   <img src="https://img.shields.io/badge/Lenguajes%20y%20Tecnologías-%F0%9F%9B%A0%EF%B8%8F-blue" alt="Lenguajes y Tecnologías">
-  <a href="mailto:hernanrg85@gmail.com">
+  <a href="mailto:hernanrg85@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Correo%20Electrónico-%23EA4335?style=flat&logo=gmail&logoColor=white" alt="Correo Electrónico">
   </a>
-  <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/">
+  <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -26,28 +26,28 @@
 <!-- Enlaces a Repositorios -->
 ## Proyectos Destacados 🚀
 
-### [Notes (ToDo) Firebase Stream](https://github.com/HerniRG/notes_-todo_firebase_stream)
+### [Notes (ToDo) Firebase Stream](https://github.com/HerniRG/notes_-todo_firebase_stream) <a href="https://github.com/HerniRG/notes_-todo_firebase_stream" target="_blank">(Ver Repositorio)</a>
 Gestión de notas y tareas con Flutter y Firebase.
 
-### [Calculadora Android](https://github.com/HerniRG/calculadora-Android)
+### [Calculadora Android](https://github.com/HerniRG/calculadora-Android) <a href="https://github.com/HerniRG/calculadora-Android" target="_blank">(Ver Repositorio)</a>
 Calculadora simple para Android desarrollada en Kotlin.
 
-### [Divide Ticket App](https://github.com/HerniRG/Divide-Ticket-App)
+### [Divide Ticket App](https://github.com/HerniRG/Divide-Ticket-App) <a href="https://github.com/HerniRG/Divide-Ticket-App" target="_blank">(Ver Repositorio)</a>
 Aplicación para dividir gastos entre amigos.
 
-### [Cinema App](https://github.com/HerniRG/cinema)
+### [Cinema App](https://github.com/HerniRG/cinema) <a href="https://github.com/HerniRG/cinema" target="_blank">(Ver Repositorio)</a>
 App para explorar información sobre películas.
 
-### [Weather API](https://github.com/HerniRG/weather_api)
+### [Weather API](https://github.com/HerniRG/weather_api) <a href="https://github.com/HerniRG/weather_api" target="_blank">(Ver Repositorio)</a>
 API para obtener información meteorológica.
 
-### [Photo API](https://github.com/HerniRG/photo_api)
+### [Photo API](https://github.com/HerniRG/photo_api) <a href="https://github.com/HerniRG/photo_api" target="_blank">(Ver Repositorio)</a>
 API para gestionar fotos.
 
-### [To-Do App](https://github.com/HerniRG/to_do_app)
+### [To-Do App](https://github.com/HerniRG/to_do_app) <a href="https://github.com/HerniRG/to_do_app" target="_blank">(Ver Repositorio)</a>
 Gestión de tareas con Flutter.
 
-### [Login Basics](https://github.com/HerniRG/login-basics)
+### [Login Basics](https://github.com/HerniRG/login-basics) <a href="https://github.com/HerniRG/login-basics" target="_blank">(Ver Repositorio)</a>
 Ejemplo básico de inicio de sesión con Flutter.
 
 ## Lenguajes y Tecnologías 🛠️
@@ -62,7 +62,7 @@ Ejemplo básico de inicio de sesión con Flutter.
 ## Contacto 📬
 
 Hernán Rodríguez
-- [Correo Electrónico](mailto:hernanrg85@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/)
+- <a href="mailto:hernanrg85@gmail.com" target="_blank">Correo Electrónico</a>
+- <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank">LinkedIn</a>
 
 ---
