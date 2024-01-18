@@ -36,7 +36,7 @@
     <img src="https://live.staticflickr.com/65535/53434026262_36963146be_o.png" alt="Notes (ToDo) Firebase Stream" width="150" height="150">
   </a>
   <a href="https://github.com/HerniRG/calculadora-Android" target="_blank">
-    <img src="https://your-image-link-here" alt="Calculadora Android" width="150" height="150">
+    <img src="https://live.staticflickr.com/65535/53472095803_6eea9d996a_o.png" alt="Calculadora Android" width="150" height="150">
   </a>
   <a href="https://github.com/HerniRG/Divide-Ticket-App" target="_blank">
     <img src="https://live.staticflickr.com/65535/53336401610_6f991dfa30_o.jpg" alt="Divide Ticket App" width="150" height="150">
