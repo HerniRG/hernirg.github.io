@@ -26,29 +26,30 @@
 <!-- Enlaces a Repositorios -->
 ## Proyectos Destacados 🚀
 
-### [Notes (ToDo) Firebase Stream](https://github.com/HerniRG/notes_-todo_firebase_stream) <a href="https://github.com/HerniRG/notes_-todo_firebase_stream" target="_blank">(Ver Repositorio)</a>
+### [Notes (ToDo) Firebase Stream](https://github.com/HerniRG/notes_-todo_firebase_stream) - [Ver Repositorio](https://github.com/HerniRG/notes_-todo_firebase_stream)
 Gestión de notas y tareas con Flutter y Firebase.
 
-### [Calculadora Android](https://github.com/HerniRG/calculadora-Android) <a href="https://github.com/HerniRG/calculadora-Android" target="_blank">(Ver Repositorio)</a>
+### [Calculadora Android](https://github.com/HerniRG/calculadora-Android) - [Ver Repositorio](https://github.com/HerniRG/calculadora-Android)
 Calculadora simple para Android desarrollada en Kotlin.
 
-### [Divide Ticket App](https://github.com/HerniRG/Divide-Ticket-App) <a href="https://github.com/HerniRG/Divide-Ticket-App" target="_blank">(Ver Repositorio)</a>
+### [Divide Ticket App](https://github.com/HerniRG/Divide-Ticket-App) - [Ver Repositorio](https://github.com/HerniRG/Divide-Ticket-App)
 Aplicación para dividir gastos entre amigos.
 
-### [Cinema App](https://github.com/HerniRG/cinema) <a href="https://github.com/HerniRG/cinema" target="_blank">(Ver Repositorio)</a>
+### [Cinema App](https://github.com/HerniRG/cinema) - [Ver Repositorio](https://github.com/HerniRG/cinema)
 App para explorar información sobre películas.
 
-### [Weather API](https://github.com/HerniRG/weather_api) <a href="https://github.com/HerniRG/weather_api" target="_blank">(Ver Repositorio)</a>
+### [Weather API](https://github.com/HerniRG/weather_api) - [Ver Repositorio](https://github.com/HerniRG/weather_api)
 API para obtener información meteorológica.
 
-### [Photo API](https://github.com/HerniRG/photo_api) <a href="https://github.com/HerniRG/photo_api" target="_blank">(Ver Repositorio)</a>
+### [Photo API](https://github.com/HerniRG/photo_api) - [Ver Repositorio](https://github.com/HerniRG/photo_api)
 API para gestionar fotos.
 
-### [To-Do App](https://github.com/HerniRG/to_do_app) <a href="https://github.com/HerniRG/to_do_app" target="_blank">(Ver Repositorio)</a>
+### [To-Do App](https://github.com/HerniRG/to_do_app) - [Ver Repositorio](https://github.com/HerniRG/to_do_app)
 Gestión de tareas con Flutter.
 
-### [Login Basics](https://github.com/HerniRG/login-basics) <a href="https://github.com/HerniRG/login-basics" target="_blank">(Ver Repositorio)</a>
+### [Login Basics](https://github.com/HerniRG/login-basics) - [Ver Repositorio](https://github.com/HerniRG/login-basics)
 Ejemplo básico de inicio de sesión con Flutter.
+
 
 ## Lenguajes y Tecnologías 🛠️
 
