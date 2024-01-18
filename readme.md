@@ -26,10 +26,15 @@
   <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none">
     <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">LinkedIn</button>
   </a>
+</div>
+
+<!-- Enlace a las Aplicaciones -->
+<div align="center" style="margin-top: 20px;">
   <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none">
     <button style="background-color: #000; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Mis Aplicaciones</button>
   </a>
 </div>
+
 
 <!-- Escudo del Proyecto -->
 <p align="center">
@@ -42,6 +47,17 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+<!-- Lenguajes y Tecnologías -->
+<h2 align="center">Lenguajes y Tecnologías 🛠️</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+</p>
+
 
 <!-- Proyectos Destacados -->
 <h2 align="center">Proyectos Destacados 🚀</h2>
@@ -123,18 +139,6 @@
 
   </div>
 </div>
-
-
-<!-- Lenguajes y Tecnologías -->
-<h2 align="center">Lenguajes y Tecnologías 🛠️</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
-  <img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-</p>
-
 
 <div align="center">
   <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Footer" width="100%" height="auto">
