@@ -13,7 +13,7 @@
 
 <!-- Header -->
 <div align="center">
-  <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Header" width="100%" height="auto">
+  <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Header" width="70%" height="auto">
 </div>
 
 <!-- Escudo del Proyecto -->
