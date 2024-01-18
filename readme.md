@@ -17,11 +17,6 @@
   </p>
 </div>
 
-<!-- Escudo del Proyecto -->
-[![Proyectos Destacados][proyectos-escudo]][proyectos-url]
-[![Lenguajes][lenguajes-escudo]][lenguajes-url]
-[![Contacto][contacto-escudo]][linkedin-url]
-
 <!-- Enlaces a Repositorios -->
 ## Proyectos Destacados 🚀
 
