@@ -16,14 +16,22 @@
   <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Header" width="70%" height="auto">
 </div>
 
-## Contacto 📬
+<!-- Contacto -->
+<h2 align="center">Contacto 📬</h2>
 
-Hernán Rodríguez
-- <a href="mailto:hernanrg85@gmail.com" target="_blank">Correo Electrónico</a>
-- <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank">LinkedIn</a>
-
-
+<div align="center">
+  <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; margin-right: 20px;">
+    <button style="background-color: #EA4335; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+      <img src="https://img.icons8.com/material-rounded/24/ffffff/email.png"/> Correo Electrónico
     </button>
+  </a>
+  <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none;">
+    <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+      <img src="https://img.icons8.com/material-rounded/24/ffffff/linkedin--v2.png"/> LinkedIn
+    </button>
+  </a>
+</div>
+
 <!-- Enlace a las Aplicaciones -->
 <div align="center" style="margin-top: 20px;">
   <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none">
