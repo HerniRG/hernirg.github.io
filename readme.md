@@ -134,6 +134,22 @@
   </div>
 </div>
 
-<div align="center">
-  <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Footer" width="100%" height="auto">
+<!-- Footer con Iconos -->
+<div align="center" style="margin-top: 20px;">
+  <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; margin-right: 20px;">
+    <img src="https://img.icons8.com/material-rounded/24/ffffff/email.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/material-rounded/24/ffffff/linkedin--v2.png"/>
+  </a>
 </div>
+
+<!-- Enlace a las Aplicaciones -->
+<div align="center" style="margin-top: 20px;">
+  <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none">
+    <button style="background-color: #000; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
+      <img src="https://img.icons8.com/material-rounded/24/ffffff/link--v1.png"/> Mis Aplicaciones
+    </button>
+  </a>
+</div>
+
