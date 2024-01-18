@@ -16,6 +16,20 @@
   <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Header" width="70%" height="auto">
 </div>
 
+<h2 align="center">Contacto 📬</h2>
+
+<div align="center">
+  <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none">
+    <button style="background-color: #EA4335; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Correo Electrónico</button>
+  </a>
+  <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none">
+    <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">LinkedIn</button>
+  </a>
+  <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none">
+    <button style="background-color: #000; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Mis Aplicaciones</button>
+  </a>
+</div>
+
 <!-- Escudo del Proyecto -->
 <p align="center">
   <img src="https://img.shields.io/badge/Proyectos%20Destacados-%F0%9F%9A%80-blue" alt="Proyectos Destacados">
@@ -120,17 +134,6 @@
   <img src="https://img.shields.io/badge/Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
 </p>
 
-<!-- Contacto -->
-<h2 align="center">Contacto 📬</h2>
-
-<div align="center">
-  <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none">
-    <button style="background-color: #EA4335; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">Correo Electrónico</button>
-  </a>
-  <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none">
-    <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">LinkedIn</button>
-  </a>
-</div>
 
 <div align="center">
   <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Footer" width="100%" height="auto">
