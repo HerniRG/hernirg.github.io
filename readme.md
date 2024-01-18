@@ -21,25 +21,20 @@
 
 <div align="center">
   <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; margin-right: 20px;">
-    <button style="background-color: #EA4335; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-      <img src="https://img.icons8.com/material-rounded/24/ffffff/email.png"/> Correo Electrónico
-    </button>
+    <img src="https://img.icons8.com/material-rounded/24/ffffff/email.png" alt="Correo Electrónico"/>
   </a>
   <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none;">
-    <button style="background-color: #0077B5; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-      <img src="https://img.icons8.com/material-rounded/24/ffffff/linkedin--v2.png"/> LinkedIn
-    </button>
+    <img src="https://img.icons8.com/material-rounded/24/ffffff/linkedin--v2.png" alt="LinkedIn"/>
   </a>
 </div>
 
 <!-- Enlace a las Aplicaciones -->
 <div align="center" style="margin-top: 20px;">
   <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none">
-    <button style="background-color: #000; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;">
-      <img src="https://img.icons8.com/material-outlined/24/ffffff/link--v1.png"/> Mis Aplicaciones Publicadas (iOS y Android)
-    </button>
+    <img src="https://img.icons8.com/material-outlined/24/ffffff/link--v1.png" alt="Mis Aplicaciones Publicadas (iOS y Android)"/>
   </a>
 </div>
+
 
 
 
