@@ -19,7 +19,7 @@
 <!-- Contacto -->
 <h2 align="center">Contacto 📬</h2>
 
-<div align="center" style="display: flex; justify-content: space-around; background-color: #F5F5F5; padding: 20px; border-radius: 10px;">
+<div align="center" style="display: flex; justify-content: space-around; background-color: #848484; padding: 20px; border-radius: 10px;">
   <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2164/2164894.png" alt="Correo Electrónico" width="35" height="35"/><br>
     <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; color: #5cb85c;">Correo Electrónico</a>
