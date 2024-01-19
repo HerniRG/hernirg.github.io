@@ -19,10 +19,10 @@
 <!-- Currículum y Carta de Presentación -->
 <h2 align="center">Currículum y Carta de Presentación 📄</h2>
 
-<div align="center" style="display: flex; justify-content: space-around; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Sección de Currículum -->
-  <div style="text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  <div style="flex: 1; text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
     <!-- Enlace a tu currículum -->
     <a href="enlace_a_tu_cv.pdf" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" alt="Currículum" width="50" height="50">
@@ -30,11 +30,8 @@
     <h3 style="margin-top: 10px; font-size: 16px;">Currículum</h3>
   </div>
 
-  <!-- Sección de Separación -->
-  <div style="width: 20px;"></div>
-
   <!-- Sección de Carta de Presentación -->
-  <div style="text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  <div style="flex: 1; text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
     <!-- Enlace a tu carta de presentación -->
     <a href="enlace_a_tu_carta.pdf" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/650/650971.png" alt="Carta de Presentación" width="50" height="50">
@@ -47,10 +44,10 @@
 <!-- Contacto -->
 <h2 align="center">Contacto 📬</h2>
 
-<div align="center" style="display: flex; justify-content: space-around; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Sección de Correo Electrónico -->
-  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  <div style="flex: 1; text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
     <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; color: #5cb85c;">
       <img src="https://cdn-icons-png.flaticon.com/512/2164/2164894.png" alt="Correo Electrónico" width="35" height="35"/>
     </a><br>
@@ -58,7 +55,7 @@
   </div>
 
   <!-- Sección de LinkedIn -->
-  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  <div style="flex: 1; text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
     <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none; color: #5bc0de;">
       <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="35" height="35"/>
     </a><br>
@@ -66,7 +63,7 @@
   </div>
 
   <!-- Sección de Mis Aplicaciones -->
-  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+  <div style="flex: 1; text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
     <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none; color: #d9534f;">
       <img src="https://cdn-icons-png.flaticon.com/512/2703/2703901.png" alt="Mis Aplicaciones" width="35" height="35"/>
     </a><br>
