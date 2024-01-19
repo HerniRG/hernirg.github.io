@@ -34,9 +34,6 @@
   </div>
 </div>
 
-
-
-
 <!-- Lenguajes y Tecnologías -->
 <h2 align="center">Lenguajes y Tecnologías 🛠️</h2>
 
@@ -47,7 +44,6 @@
   <img src="https://img.shields.io/badge/Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
 </p>
 
-
 <!-- Proyectos Destacados -->
 <h2 align="center">Proyectos Destacados 🚀</h2>
 
@@ -55,74 +51,74 @@
   <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
     <!-- Notes (ToDo) Firebase Stream -->
-    <div style="flex: 0 1 300px; margin: 20px;">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <a href="https://github.com/HerniRG/notes_-todo_firebase_stream" target="_blank">
         <img src="https://live.staticflickr.com/65535/53434026262_36963146be_o.png" alt="Notes (ToDo) Firebase Stream" width="100%">
       </a>
-      <h3><a href="https://github.com/HerniRG/notes_-todo_firebase_stream" target="_blank">Notes (ToDo) Firebase Stream</a></h3>
+      <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/notes_-todo_firebase_stream" target="_blank">Notes (ToDo) Firebase Stream</a></h3>
       <p>Gestión de notas y tareas con Flutter y Firebase.</p>
     </div>
 
     <!-- Calculadora Android -->
-    <div style="flex: 0 1 300px; margin: 20px;">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <a href="https://github.com/HerniRG/calculadora-Android" target="_blank">
         <img src="https://live.staticflickr.com/65535/53472095803_6eea9d996a_o.png" alt="Calculadora Android" width="100%">
       </a>
-      <h3><a href="https://github.com/HerniRG/calculadora-Android" target="_blank">Calculadora Android</a></h3>
+      <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/calculadora-Android" target="_blank">Calculadora Android</a></h3>
       <p>Calculadora simple para Android desarrollada en Kotlin.</p>
     </div>
 
     <!-- Divide Ticket App -->
-    <div style="flex: 0 1 300px; margin: 20px;">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <a href="https://github.com/HerniRG/Divide-Ticket-App" target="_blank">
         <img src="https://live.staticflickr.com/65535/53336401610_6f991dfa30_o.jpg" alt="Divide Ticket App" width="100%">
       </a>
-      <h3><a href="https://github.com/HerniRG/Divide-Ticket-App" target="_blank">Divide Ticket App</a></h3>
+      <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/Divide-Ticket-App" target="_blank">Divide Ticket App</a></h3>
       <p>Aplicación para dividir gastos entre amigos.</p>
     </div>
 
     <!-- Cinema App -->
-    <div style="flex: 0 1 300px; margin: 20px;">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <a href="https://github.com/HerniRG/cinema" target="_blank">
         <img src="https://live.staticflickr.com/65535/53285095528_f34d510d76_o.png" alt="Cinema App" width="100%">
       </a>
-      <h3><a href="https://github.com/HerniRG/cinema" target="_blank">Cinema App</a></h3>
+      <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/cinema" target="_blank">Cinema App</a></h3>
       <p>App para explorar información sobre películas.</p>
     </div>
 
     <!-- Weather API -->
-    <div style="flex: 0 1 300px; margin: 20px;">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <a href="https://github.com/HerniRG/weather_api" target="_blank">
         <img src="https://live.staticflickr.com/65535/53272423345_8c8f0c4c56_o.png" alt="Weather API" width="100%">
       </a>
-      <h3><a href="https://github.com/HerniRG/weather_api" target="_blank">Weather API</a></h3>
+      <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/weather_api" target="_blank">Weather API</a></h3>
       <p>API para obtener información meteorológica.</p>
     </div>
 
     <!-- Photo API -->
-    <div style="flex: 0 1 300px; margin: 20px;">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <a href="https://github.com/HerniRG/photo_api" target="_blank">
         <img src="https://live.staticflickr.com/65535/53259364363_18b1853452_o.png" alt="Photo API" width="100%">
       </a>
-      <h3><a href="https://github.com/HerniRG/photo_api" target="_blank">Photo API</a></h3>
+      <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/photo_api" target="_blank">Photo API</a></h3>
       <p>API para gestionar fotos.</p>
     </div>
 
     <!-- To-Do App -->
-    <div style="flex: 0 1 300px; margin: 20px;">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <a href="https://github.com/HerniRG/to_do_app" target="_blank">
         <img src="https://live.staticflickr.com/65535/53236823325_1313363ba1_o.png" alt="To-Do App" width="100%">
       </a>
-      <h3><a href="https://github.com/HerniRG/to_do_app" target="_blank">To-Do App</a></h3>
+      <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/to_do_app" target="_blank">To-Do App</a></h3>
       <p>Gestión de tareas con Flutter.</p>
     </div>
 
     <!-- Login Basics -->
-    <div style="flex: 0 1 300px; margin: 20px;">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
       <a href="https://github.com/HerniRG/login-basics" target="_blank">
         <img src="https://live.staticflickr.com/65535/53234311883_68c8f91978_o.png" alt="Login Basics" width="100%">
       </a>
-      <h3><a href="https://github.com/HerniRG/login-basics" target="_blank">Login Basics</a></h3>
+      <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/login-basics" target="_blank">Login Basics</a></h3>
       <p>Ejemplo básico de inicio de sesión con Flutter.</p>
     </div>
 
@@ -132,4 +128,3 @@
 <div align="center">
   <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Footer" width="100%" height="auto">
 </div>
-
