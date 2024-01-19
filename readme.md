@@ -7,7 +7,7 @@
   <h1 align="center">Portfolio Personal Hernán Rodríguez</h1>
 
   <p align="center">
-    ¡Hola! Soy Hernán Rodríguez, un apasionado desarrollador de aplicaciones móviles en constante aprendizaje. Me especializo en el desarrollo con Flutter y Dart para iOS y Android, y estoy ampliando mis habilidades con Kotlin (Android) y Swift (iOS).
+    ¡Hola! Soy Hernán Rodríguez, un apasionado desarrollador de aplicaciones móviles en constante aprendizaje. Me especializo en el desarrollo con Flutter y Dart para iOS y Android. Estoy ampliando mis habilidades con Kotlin (Android) y Swift (iOS).
   </p>
 </div>
 
@@ -24,7 +24,7 @@
   <!-- Sección de Currículum -->
   <div style="flex: 1; text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
     <!-- Enlace a tu currículum -->
-    <a href="enlace_a_tu_cv.pdf" target="_blank">
+    <a href="https://drive.google.com/file/d/1fDdNtE0mFvkaMb2immSZFxhJ6_rFg9Ge/view?usp=drive_link" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" alt="Currículum" width="50" height="50">
     </a>
     <h3 style="margin-top: 10px; font-size: 16px;">Currículum</h3>
@@ -33,7 +33,7 @@
   <!-- Sección de Carta de Presentación -->
   <div style="flex: 1; text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
     <!-- Enlace a tu carta de presentación -->
-    <a href="enlace_a_tu_carta.pdf" target="_blank">
+    <a href="https://drive.google.com/file/d/1uEVBy4Q4P6ZQdF5b5obqb8S-YAQmIypl/view?usp=drive_link" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/650/650971.png" alt="Carta de Presentación" width="50" height="50">
     </a>
     <h3 style="margin-top: 10px; font-size: 16px;">Carta de Presentación</h3>
