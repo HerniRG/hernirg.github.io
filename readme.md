@@ -22,15 +22,15 @@
 <div align="center" style="display: flex; justify-content: space-around; background-color: #F5F5F5; padding: 20px; border-radius: 10px;">
   <div style="text-align: center; background-color: #5cb85c; padding: 10px; border-radius: 5px;">
     <img src="https://w7.pngwing.com/pngs/333/868/png-transparent-mail-computer-icons-email-graphy-e-mail-miscellaneous-angle-rectangle.png" alt="Correo Electrónico" width="25" height="25"/><br>
-    <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; color: white;">Correo Electrónico</a>
+    <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none;">Correo Electrónico</a>
   </div>
   <div style="text-align: center; background-color: #5bc0de; padding: 10px; border-radius: 5px; margin: 0 20px;">
     <img src="https://banner2.cleanpng.com/20180518/yk/kisspng-computer-icons-linkedin-5aff0283a31f04.0344839015266617636682.jpg" alt="LinkedIn" width="25" height="25"/><br>
-    <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none; color: white;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none;">LinkedIn</a>
   </div>
   <div style="text-align: center; background-color: #d9534f; padding: 10px; border-radius: 5px;">
     <img src="https://png.pngtree.com/element_our/20200702/ourmid/pngtree-cartoon-link-icon-download-image_2292257.jpg" alt="Mis Aplicaciones" width="25" height="25"/><br>
-    <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none; color: white;">Mis Aplicaciones (iOS y Android)</a>
+    <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none;">Mis Aplicaciones (iOS y Android)</a>
   </div>
 </div>
 
