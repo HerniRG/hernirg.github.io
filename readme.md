@@ -1,7 +1,7 @@
 <!-- Logo y Título del Proyecto -->
 <div align="center">
   <a href="https://github.com/HerniRG/portafolio-personal" target="_blank">
-    <img src="https://live.staticflickr.com/65535/53471788406_e8a54ccd4f_o.png" alt="Logo" width="120" height="120">
+    <img src="https://live.staticflickr.com/65535/53471788406_e8a54ccd4f_o.png" alt="Logo" width="160" height="160">
   </a>
 
   <h1 align="center">Portafolio Personal Hernán Rodríguez</h1>
