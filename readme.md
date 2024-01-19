@@ -19,7 +19,9 @@
 <!-- Currículum y Carta de Presentación -->
 <h2 align="center">Currículum y Carta de Presentación 📄</h2>
 
-<div align="center" style="display: flex; justify-content: space-around; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+
+  <!-- Sección de Currículum -->
   <div style="text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
     <!-- Enlace a tu currículum -->
     <a href="enlace_a_tu_cv.pdf" target="_blank">
@@ -29,6 +31,10 @@
     <p>Descarga mi currículum para conocer más sobre mi experiencia y habilidades.</p>
   </div>
 
+  <!-- Sección de Separación -->
+  <div style="height: 20px;"></div>
+
+  <!-- Sección de Carta de Presentación -->
   <div style="text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
     <!-- Enlace a tu carta de presentación -->
     <a href="enlace_a_tu_carta.pdf" target="_blank">
@@ -37,7 +43,9 @@
     <h3 style="margin-top: 10px;">Carta de Presentación</h3>
     <p>Lee mi carta de presentación para conocer más sobre mis objetivos y motivaciones.</p>
   </div>
+
 </div>
+
 
 <!-- Contacto -->
 <h2 align="center">Contacto 📬</h2>
@@ -45,15 +53,15 @@
 <div align="center" style="display: flex; justify-content: space-around; background-color: #848484; padding: 20px; border-radius: 10px;">
   <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2164/2164894.png" alt="Correo Electrónico" width="35" height="35"/><br>
-    <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; color: #5cb85c;">Correo Electrónico</a>
+    <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none;">Correo Electrónico</a>
   </div>
   <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; margin: 0 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="35" height="35"/><br>
-    <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none; color: #5bc0de;">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none;">LinkedIn</a>
   </div>
   <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2703/2703901.png" alt="Mis Aplicaciones" width="35" height="35"/><br>
-    <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none; color: #d9534f;">Mis Aplicaciones (iOS y Android)</a>
+    <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none;">Mis Apps Publicadas (iOS y Android)</a>
   </div>
 </div>
 
