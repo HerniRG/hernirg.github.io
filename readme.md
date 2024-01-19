@@ -51,7 +51,7 @@
   <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
     <!-- Notes (ToDo) Firebase Stream -->
-    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       <a href="https://github.com/HerniRG/notes_-todo_firebase_stream" target="_blank">
         <img src="https://live.staticflickr.com/65535/53434026262_36963146be_o.png" alt="Notes (ToDo) Firebase Stream" width="100%">
       </a>
@@ -60,7 +60,7 @@
     </div>
 
     <!-- Calculadora Android -->
-    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       <a href="https://github.com/HerniRG/calculadora-Android" target="_blank">
         <img src="https://live.staticflickr.com/65535/53472095803_6eea9d996a_o.png" alt="Calculadora Android" width="100%">
       </a>
@@ -69,7 +69,7 @@
     </div>
 
     <!-- Divide Ticket App -->
-    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       <a href="https://github.com/HerniRG/Divide-Ticket-App" target="_blank">
         <img src="https://live.staticflickr.com/65535/53336401610_6f991dfa30_o.jpg" alt="Divide Ticket App" width="100%">
       </a>
@@ -78,7 +78,7 @@
     </div>
 
     <!-- Cinema App -->
-    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       <a href="https://github.com/HerniRG/cinema" target="_blank">
         <img src="https://live.staticflickr.com/65535/53285095528_f34d510d76_o.png" alt="Cinema App" width="100%">
       </a>
@@ -87,7 +87,7 @@
     </div>
 
     <!-- Weather API -->
-    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       <a href="https://github.com/HerniRG/weather_api" target="_blank">
         <img src="https://live.staticflickr.com/65535/53272423345_8c8f0c4c56_o.png" alt="Weather API" width="100%">
       </a>
@@ -96,7 +96,7 @@
     </div>
 
     <!-- Photo API -->
-    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       <a href="https://github.com/HerniRG/photo_api" target="_blank">
         <img src="https://live.staticflickr.com/65535/53259364363_18b1853452_o.png" alt="Photo API" width="100%">
       </a>
@@ -105,7 +105,7 @@
     </div>
 
     <!-- To-Do App -->
-    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       <a href="https://github.com/HerniRG/to_do_app" target="_blank">
         <img src="https://live.staticflickr.com/65535/53236823325_1313363ba1_o.png" alt="To-Do App" width="100%">
       </a>
@@ -114,7 +114,7 @@
     </div>
 
     <!-- Login Basics -->
-    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       <a href="https://github.com/HerniRG/login-basics" target="_blank">
         <img src="https://live.staticflickr.com/65535/53234311883_68c8f91978_o.png" alt="Login Basics" width="100%">
       </a>
