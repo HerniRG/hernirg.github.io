@@ -4,7 +4,7 @@
     <img src="https://live.staticflickr.com/65535/53471788406_e8a54ccd4f_o.png" alt="Logo" width="160" height="160">
   </a>
 
-  <h1 align="center">Portafolio Personal Hernán Rodríguez</h1>
+  <h1 align="center">Portfolio Personal Hernán Rodríguez</h1>
 
   <p align="center">
     ¡Hola! Soy Hernán Rodríguez, un apasionado desarrollador de aplicaciones móviles en constante aprendizaje. Me especializo en el desarrollo con Flutter y Dart para iOS y Android, y estoy ampliando mis habilidades con Kotlin (Android) y Swift (iOS).
@@ -14,6 +14,29 @@
 <!-- Header -->
 <div align="center">
   <img src="https://buildfire.com/wp-content/uploads/2017/10/become-mobile-app-developer.jpg" alt="Header" width="70%" height="auto">
+</div>
+
+<!-- Currículum y Carta de Presentación -->
+<h2 align="center">Currículum y Carta de Presentación 📄</h2>
+
+<div align="center" style="display: flex; justify-content: space-around; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+  <div style="text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+    <!-- Enlace a tu currículum -->
+    <a href="enlace_a_tu_cv.pdf" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" alt="Currículum" width="50" height="50">
+    </a>
+    <h3 style="margin-top: 10px;">Currículum</h3>
+    <p>Descarga mi currículum para conocer más sobre mi experiencia y habilidades.</p>
+  </div>
+
+  <div style="text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+    <!-- Enlace a tu carta de presentación -->
+    <a href="enlace_a_tu_carta.pdf" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/650/650971.png" alt="Carta de Presentación" width="50" height="50">
+    </a>
+    <h3 style="margin-top: 10px;">Carta de Presentación</h3>
+    <p>Lee mi carta de presentación para conocer más sobre mis objetivos y motivaciones.</p>
+  </div>
 </div>
 
 <!-- Contacto -->
