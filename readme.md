@@ -28,7 +28,6 @@
       <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" alt="Currículum" width="50" height="50">
     </a>
     <h3 style="margin-top: 10px;">Currículum</h3>
-    <p>Descarga mi currículum para conocer más sobre mi experiencia y habilidades.</p>
   </div>
 
   <!-- Sección de Separación -->
@@ -41,7 +40,6 @@
       <img src="https://cdn-icons-png.flaticon.com/512/650/650971.png" alt="Carta de Presentación" width="50" height="50">
     </a>
     <h3 style="margin-top: 10px;">Carta de Presentación</h3>
-    <p>Lee mi carta de presentación para conocer más sobre mis objetivos y motivaciones.</p>
   </div>
 
 </div>
@@ -66,9 +64,6 @@
     </a><br>
     <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none; color: #5bc0de;">LinkedIn</a>
   </div>
-
-</div>
-
 
   <!-- Sección de Mis Aplicaciones -->
   <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
