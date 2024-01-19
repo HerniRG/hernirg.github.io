@@ -19,7 +19,7 @@
 <!-- Currículum y Carta de Presentación -->
 <h2 align="center">Currículum y Carta de Presentación 📄</h2>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+<div align="center" style="display: flex; justify-content: space-around; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Sección de Currículum -->
   <div style="text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
@@ -32,7 +32,7 @@
   </div>
 
   <!-- Sección de Separación -->
-  <div style="height: 20px;"></div>
+  <div style="width: 20px;"></div>
 
   <!-- Sección de Carta de Presentación -->
   <div style="text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
@@ -46,11 +46,10 @@
 
 </div>
 
-
 <!-- Contacto -->
 <h2 align="center">Contacto 📬</h2>
 
-<div align="center" style="display: flex; flex-direction: column; gap: 20px; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+<div align="center" style="display: flex; justify-content: space-around; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
 
   <!-- Sección de Correo Electrónico -->
   <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
@@ -61,12 +60,15 @@
   </div>
 
   <!-- Sección de LinkedIn -->
-  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 20px;">
+  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
     <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none; color: #5bc0de;">
       <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="35" height="35"/>
     </a><br>
     <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none; color: #5bc0de;">LinkedIn</a>
   </div>
+
+</div>
+
 
   <!-- Sección de Mis Aplicaciones -->
   <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
