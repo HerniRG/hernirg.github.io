@@ -50,20 +50,28 @@
 <!-- Contacto -->
 <h2 align="center">Contacto 📬</h2>
 
-<div align="center" style="display: flex; justify-content: space-around; background-color: #848484; padding: 20px; border-radius: 10px;">
-  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px;">
+<div align="center" style="display: flex; flex-direction: column; gap: 20px; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+
+  <!-- Sección de Correo Electrónico -->
+  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
     <img src="https://cdn-icons-png.flaticon.com/512/2164/2164894.png" alt="Correo Electrónico" width="35" height="35"/><br>
     <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none;">Correo Electrónico</a>
   </div>
-  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; margin: 0 20px;">
+
+  <!-- Sección de LinkedIn -->
+  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 20px;">
     <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="35" height="35"/><br>
     <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none;">LinkedIn</a>
   </div>
-  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px;">
+
+  <!-- Sección de Mis Aplicaciones -->
+  <div style="text-align: center; background-color: white; padding: 10px; border-radius: 5px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
     <img src="https://cdn-icons-png.flaticon.com/512/2703/2703901.png" alt="Mis Aplicaciones" width="35" height="35"/><br>
     <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none;">Mis Apps Publicadas (iOS y Android)</a>
   </div>
+
 </div>
+
 
 <!-- Lenguajes y Tecnologías -->
 <h2 align="center">Lenguajes y Tecnologías 🛠️</h2>
