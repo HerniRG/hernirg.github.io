@@ -61,10 +61,12 @@
 <h2 align="center">Lenguajes y Tecnologías 🛠️</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Dart-%230175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
-  <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin (Android)">
+  <img src="https://img.shields.io/badge/Android-%3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Swift-%23FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift (iOS)">
+  <img src="https://img.shields.io/badge/iOS-%23000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS">
 </p>
 
 <!-- Proyectos Destacados -->
