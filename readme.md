@@ -27,7 +27,7 @@
     <a href="enlace_a_tu_cv.pdf" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" alt="Currículum" width="50" height="50">
     </a>
-    <h3 style="margin-top: 10px;">Currículum</h3>
+    <h3 style="margin-top: 10px; font-size: 16px;">Currículum</h3>
   </div>
 
   <!-- Sección de Separación -->
@@ -39,7 +39,7 @@
     <a href="enlace_a_tu_carta.pdf" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/650/650971.png" alt="Carta de Presentación" width="50" height="50">
     </a>
-    <h3 style="margin-top: 10px;">Carta de Presentación</h3>
+    <h3 style="margin-top: 10px; font-size: 16px;">Carta de Presentación</h3>
   </div>
 
 </div>
@@ -54,7 +54,7 @@
     <a href="mailto:hernanrg85@gmail.com" target="_blank" style="text-decoration:none; color: #5cb85c;">
       <img src="https://cdn-icons-png.flaticon.com/512/2164/2164894.png" alt="Correo Electrónico" width="35" height="35"/>
     </a><br>
-    <h3 style="margin-top: 10px;">Correo Electrónico</h3>
+    <h3 style="margin-top: 10px; font-size: 14px;">Correo Electrónico</h3>
   </div>
 
   <!-- Sección de LinkedIn -->
@@ -62,7 +62,7 @@
     <a href="https://www.linkedin.com/in/hern%C3%A1n-rodr%C3%ADguez-garnica/" target="_blank" style="text-decoration:none; color: #5bc0de;">
       <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="35" height="35"/>
     </a><br>
-    <h3 style="margin-top: 10px;">LinkedIn</h3>
+    <h3 style="margin-top: 10px; font-size: 14px;">LinkedIn</h3>
   </div>
 
   <!-- Sección de Mis Aplicaciones -->
@@ -70,10 +70,11 @@
     <a href="https://linktr.ee/hrgapps" target="_blank" style="text-decoration:none; color: #d9534f;">
       <img src="https://cdn-icons-png.flaticon.com/512/2703/2703901.png" alt="Mis Aplicaciones" width="35" height="35"/>
     </a><br>
-    <h3 style="margin-top: 10px;">Mis Apps Publicadas (iOS y Android)</h3>
+    <h3 style="margin-top: 10px; font-size: 14px;">Mis Apps Publicadas (iOS y Android)</h3>
   </div>
 
 </div>
+
 
 
 
