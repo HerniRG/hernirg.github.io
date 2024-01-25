@@ -41,6 +41,26 @@
 
 </div>
 
+<!-- Certificaciones -->
+<h2 align="center">Certificaciones 🏆</h2>
+
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; background-color: #848484; padding: 20px; border-radius: 10px; margin-bottom: 30px;">
+
+  <!-- Sección de Certificación Scrum Manager -->
+  <div style="flex: 1; text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
+    <!-- Enlace a tu certificación Scrum Manager -->
+    <a href="https://scrummanager.com/website/c/verify-cert.php?code=657586ee4c3975.19965212&trk=public_profile_see-credential" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/8553/8553391.png" alt="Certificación Scrum Manager" width="50" height="50">
+    </a>
+    <h3 style="margin-top: 10px; font-size: 16px;">Certificación Scrum Manager</h3>
+  </div>
+
+  <!-- Otras certificaciones -->
+  <!-- Puedes agregar más secciones de certificaciones según tus necesidades -->
+
+</div>
+
+
 <!-- Contacto -->
 <h2 align="center">Contacto 📬</h2>
 
