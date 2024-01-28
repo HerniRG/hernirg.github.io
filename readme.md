@@ -113,6 +113,16 @@
 <div align="center">
   <div style="display: flex; flex-direction: row; justify-content: space-around; align-items: center; flex-wrap: wrap;">
 
+    <!-- Cocktails App (Swift) -->
+    <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
+      <a href="https://github.com/HerniRG/Cocktails" target="_blank">
+        <img src="https://live.staticflickr.com/65535/53492804944_f1c20434bf_o.png" alt="App de Cocktails" width="100%">
+      </a>
+      <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/Cocktails" target="_blank">App de Cocktails (Swift)</a></h3>
+      <p>Explora información sobre cócteles utilizando Swift y la API de cocktaildb.com.</p>
+    </div>
+
+
     <!-- Notes (ToDo) Firebase Stream -->
     <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
       <a href="https://github.com/HerniRG/notes_-todo_firebase_stream" target="_blank">
@@ -121,6 +131,7 @@
       <h3 style="margin-top: 10px;"><a href="https://github.com/HerniRG/notes_-todo_firebase_stream" target="_blank">Notes (ToDo) Firebase Stream</a></h3>
       <p>Gestión de notas y tareas con Flutter y Firebase.</p>
     </div>
+
 
     <!-- Calculadora Android -->
     <div class="card" style="flex: 0 1 300px; margin: 20px; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2);">
