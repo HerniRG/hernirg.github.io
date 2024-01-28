@@ -24,7 +24,7 @@
   <!-- Sección de Currículum -->
   <div style="flex: 1; text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
     <!-- Enlace a tu currículum -->
-    <a href="https://drive.google.com/file/d/1-EE1LqDKEUIqIKBHPnE1dE-M0AIm0vQ3/view?usp=drivesdk" target="_blank">
+    <a href="https://drive.google.com/file/d/1suVZENv4sEc1xAr7LDDBL0LfJgFnngl8/view?usp=drive_link" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/3135/3135731.png" alt="Currículum" width="50" height="50">
     </a>
     <h3 style="margin-top: 10px; font-size: 16px;">Currículum</h3>
