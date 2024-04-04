@@ -33,7 +33,7 @@
   <!-- Sección de Carta de Presentación -->
   <div style="flex: 1; text-align: center; background-color: white; padding: 15px; border-radius: 10px; box-shadow: 0 8px 16px rgba(0,0,0,0.2); margin: 0 10px 20px;">
     <!-- Enlace a tu carta de presentación -->
-    <a href="https://drive.google.com/file/d/1n34g0LHn5nWn0zkL3e_DvTGwoaU6UPBI/view?usp=drivesdk" target="_blank">
+    <a href="https://drive.google.com/file/d/1zPpsDMsk6stuEdnWfz8StOhHeqEuo4fH/view?usp=sharing" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/650/650971.png" alt="Carta de Presentación" width="50" height="50">
     </a>
     <h3 style="margin-top: 10px; font-size: 16px;">Carta de Presentación</h3>
