@@ -1,54 +1,63 @@
 /* Estilos generales */
 body {
-  font-family: Arial, sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
+  background-color: #f8f9fa;
+  color: #343a40;
+}
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 0 20px;
 }
 
 /* Estilos para el encabezado */
 .header {
-  text-align: center;
-  background-color: #f2f2f2;
-  padding: 20px;
+  background-color: #007bff;
+  color: #fff;
+  padding: 40px 20px;
 }
 
 .logo {
-  width: 160px;
-  height: 160px;
+  width: 120px;
+  height: 120px;
 }
 
 .title {
-  margin-top: 10px;
+  margin-top: 20px;
 }
 
 .description {
-  margin-top: 10px;
+  margin-top: 20px;
+  font-size: 18px;
 }
 
 /* Estilos para las secciones */
 .section {
-  text-align: center;
-  padding: 20px 0;
+  padding: 40px 0;
 }
 
 .section-title {
   margin-bottom: 20px;
+  font-size: 28px;
 }
 
 /* Estilos para las tarjetas de enlaces */
 .card-container {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
 .card {
   flex: 1;
   text-align: center;
-  background-color: white;
-  padding: 15px;
+  background-color: #fff;
+  padding: 20px;
   border-radius: 10px;
-  box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   margin: 0 10px 20px;
 }
 
@@ -59,7 +68,7 @@ body {
 
 .card-title {
   margin-top: 10px;
-  font-size: 16px;
+  font-size: 20px;
 }
 
 /* Estilos para los badges */
@@ -76,14 +85,15 @@ body {
 /* Estilos para los proyectos destacados */
 .project-container {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
   flex-wrap: wrap;
 }
 
 /* Estilos para el footer */
 .footer {
+  background-color: #343a40;
+  color: #fff;
   text-align: center;
-  padding: 20px;
+  padding: 40px 20px;
 }
